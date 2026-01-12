@@ -2,6 +2,8 @@
 runtime: 3ms
 time complexity: O(n)
 space complexity: O(n)
+link: https://leetcode.com/problems/two-sum/
+tags: #array #hash-table
 """
 
 class Solution(object):
